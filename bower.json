@@ -1,0 +1,15 @@
+{
+	"name": "html2canvas.js",
+	"homepage": "https://github.com/cleiton-tavares/html2canvas/",
+	"description": "y",
+	"main": "html2canvas.js",
+	"keywords": [
+		"three",
+		"threejs",
+		"three.js",
+		"3D",
+		"webgl"
+	],
+	"license": "MIT",
+	"ignore": []
+}
